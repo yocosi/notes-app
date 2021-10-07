@@ -1,5 +1,5 @@
 # notesApp
-<b>A little command-line app to handle : Add, Remove, List and Read notes in a notes.json file</b>
+<b>A little NodeJS command-line app to handle : Add, Remove, List and Read notes in a notes.json file</b>
 
 1) While running ```node app.js --help```<br> 
    you'll be able to see all the options available to manipulate the notes.
